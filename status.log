@@ -4,3 +4,5 @@
 2023-03-19 17:54:22,680 - __main__ - INFO - Weather in Berlin: 0.22
 2023-03-19 17:55:15,731 - __main__ - INFO - Token value: Token not available!
 2023-03-19 17:55:16,348 - __main__ - INFO - Weather in Toronto: 0.33
+2023-03-19 22:24:17,544 - __main__ - INFO - Token value: 1234
+2023-03-19 22:24:18,041 - __main__ - INFO - Weather in Toronto: 0.33
